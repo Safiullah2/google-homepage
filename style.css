@@ -2,21 +2,41 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    display: flex;
-    justify-content: space-between;
-  }
+}
 
-  img {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-  }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 109px;
+}
 
-  form {
-      margin: auto;
-  }
+input {
 
-  #footer {
-      position:relative;
-      bottom;
-  }
+}
+
+.button {
+
+}
+
+#button1 {
+
+}
+
+.header {
+
+}
+
+.footer {
+    background-color: silver;
+    position: absolute;
+    bottom: 20px;
+}
+
+#footer1 {
+
+}
+
+#footer2 {
+
+}
